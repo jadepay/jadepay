@@ -128,6 +128,8 @@ public:
 
         vSeeds.push_back(CDNSSeedData("node01.jadepay.org", "node01.jadepay.org"));
         vSeeds.push_back(CDNSSeedData("explorer.jadepay.org", "explorer.jadepay.org"));
+        vSeeds.push_back(CDNSSeedData("91.214.117.26", "91.214.117.26.org"));
+
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 43); // Jadepay address start with J
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1, 5);
