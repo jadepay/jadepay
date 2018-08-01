@@ -1,0 +1,17 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="ca">locale/Jadepay_ca.qm</file>
+        <file alias="da">locale/Jadepay_da.qm</file>
+        <file alias="de">locale/Jadepay_de.qm</file>
+        <file alias="en">locale/Jadepay_en.qm</file>
+        <file alias="en_US">locale/Jadepay_en_US.qm</file>
+        <file alias="es">locale/Jadepay_es.qm</file>
+        <file alias="fr_FR">locale/Jadepay_fr_FR.qm</file>
+        <file alias="it">locale/Jadepay_it.qm</file>
+        <file alias="ja">locale/Jadepay_ja.qm</file>
+        <file alias="pt">locale/Jadepay_pt.qm</file>
+        <file alias="ro_RO">locale/Jadepay_ro_RO.qm</file>
+        <file alias="ru">locale/Jadepay_ru.qm</file>
+        <file alias="zh_TW">locale/Jadepay_zh_TW.qm</file>
+    </qresource>
+</RCC>
