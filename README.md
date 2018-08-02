@@ -104,7 +104,7 @@ Once the source code is ready the build steps are below.
 
     # Note autogen will prompt to install some more dependencies if needed
     ./autogen.sh
-    ./configure 
+    ./configure --disable-tests
     make -j4
 
 ### Build on OSX
@@ -142,7 +142,7 @@ NOTE: Building with Qt4 is still supported, however, could result in a broken UI
     You can disable the GUI build by passing `--without-gui` to configure.
 
         ./autogen.sh
-        ./configure
+        ./configure  --disable-tests
         make
 
 3.  It is recommended to build and run the unit tests:
