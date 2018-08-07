@@ -5,7 +5,7 @@
 <a href="https://discord.gg/mVnfHBN"><img src="https://discordapp.com/api/guilds/466845097246326785/embed.png" alt="Discord server" /></a>
 
 
-| [Website](http://jadepay.org) | [Web Wallet](http://wallet.jadepay.org) | [Block Explorer](http://explorer.jadepay.org/) |
+| [Website](http://jadepay.org) | [Web Wallet](http://wallet.jadepay.org) | [Block Explorer](http://explorer.jadepay.org:8600/) |
 
 Version 1.1.0 is builded for insight api. Afterhttps://discord.gg/mVnfHBN some tests it will be released for all operating systems.
 
